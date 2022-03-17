@@ -1,0 +1,1 @@
+update usuarios set nome = "Urso" where nome = "Daniela Fontana";
